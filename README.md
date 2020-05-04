@@ -88,6 +88,8 @@ John Merchan
 
 ### Images
 
+![Capture](https://user-images.githubusercontent.com/54227198/80953832-9e693400-8e3f-11ea-97ff-9eb90365fe08.JPG)
+
 ### Acknowledgements
 
 My thanks to Aditya and Vishal and special thanks to Agustinn; An amazing team of professional developers, who thrive teaching and sharing their knowledge
