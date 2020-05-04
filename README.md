@@ -12,6 +12,7 @@
 - [Contributors](#contributors)
 - [Author](#author)
 - [Images](#images)
+- [Demo](#demo)
 - [Acknowledgements](#acknowledgements)
 - [Copyright](#copyright)
 
