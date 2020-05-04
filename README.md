@@ -93,7 +93,7 @@ John Merchan
 
 ### Demo
 
-![Demo](demo/demo.gif)
+![Demo](demo/Demo.gif)
 
 ### Acknowledgements
 
